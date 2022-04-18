@@ -1,2 +1,2 @@
 # flask-minimal
-Built routings with Flask python Framework
+Built app with Flask python Framework from its Official documentation.
