@@ -1,2 +1,2 @@
 # flask-minimal
-Built app with Flask python Framework from its Official documentation.
+Learn to build app with Flask python Framework from its Official documentation.
